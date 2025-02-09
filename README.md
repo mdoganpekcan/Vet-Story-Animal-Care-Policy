@@ -52,8 +52,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 If you have questions about this Privacy Policy, please contact us at:
-- Email: [Your Contact Email]
-- Website: [Your Website/Support Page]
+- Email: tinmoidev@gmail.com
 
 ## Your Rights
 You have the right to:
@@ -71,10 +70,6 @@ To request deletion of your game data:
 ## Consent
 By using our game, you consent to our Privacy Policy and agree to its terms.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-
-Email: tinmoidev@gmail.com
-
+##
 Last Updated: 09.02.2025
 
