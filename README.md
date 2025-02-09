@@ -1,8 +1,4 @@
-# Vet-Story-Animal-Care-Policy
-
 # Privacy Policy for Vet Story: Animal Care Game
-
-Last Updated: 09.02.2025
 
 ## Introduction
 This privacy policy describes how we collect, use, and share information when you use our mobile game "Vet Story: Animal Care Game". By downloading and using the game, you agree to the collection and use of information in accordance with this policy.
@@ -74,3 +70,11 @@ To request deletion of your game data:
 
 ## Consent
 By using our game, you consent to our Privacy Policy and agree to its terms.
+
+## Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: tinmoidev@gmail.com
+
+Last Updated: 09.02.2025
+
